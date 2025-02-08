@@ -7,10 +7,7 @@ Jomarie Delacerna
 
 I Live in Parañaque City 
 
- 1  cd c:users/cl3
-    2  cd c:/users/cl3/
-    3  cd c:/users/cl3/
-    4*
+
     5  ls
     6*
     7  ls_al
@@ -104,4 +101,4 @@ I Live in Parañaque City
    95  git status
    96  git pull
    97  git rebase main
-   98  history
+
