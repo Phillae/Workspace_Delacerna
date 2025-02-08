@@ -1,13 +1,5 @@
 
-Welcome 
-
-Jomarie Delacerna
-
-21 years old 
-
-I Live in Parañaque City 
-
-
+    4  cd c:/users/occs/
     5  ls
     6*
     7  ls_al
@@ -101,4 +93,4 @@ I Live in Parañaque City
    95  git status
    96  git pull
    97  git rebase main
-
+   98  history
